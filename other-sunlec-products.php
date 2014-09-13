@@ -22,7 +22,7 @@
             	<img src="images/inner_cable1.png" alt="inner cable1" class="image_float_right" />
                 
           		<div>
-          testing update Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere accumsan tortor at euismod. Vivamus aliquet tempor vestibulum. Sed laoreet ante ut elit consectetur tempus. Praesent tempor rutrum sem id posuere. Curabitur quis dictum ipsum, sed condimentum mauris. Praesent viverra sem augue, eu consectetur elit viverra quis. Nunc nec pulvinar nunc, molestie lobortis orci.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere accumsan tortor at euismod. Vivamus aliquet tempor vestibulum. Sed laoreet ante ut elit consectetur tempus. Praesent tempor rutrum sem id posuere. Curabitur quis dictum ipsum, sed condimentum mauris. Praesent viverra sem augue, eu consectetur elit viverra quis. Nunc nec pulvinar nunc, molestie lobortis orci.
 <br/><br/>
 Nullam nec lacus vel ipsum mollis vehicula at sit amet justo. Nunc mollis risus sit amet dui sagittis, quis tempus purus vehicula. Vestibulum diam justo, accumsan non nunc nec, lobortis ornare urna. Nulla dictum neque urna, non volutpat augue vestibulum pellentesque. Duis ut turpis ante. Donec ut orci non ligula tristique malesuada. Quisque vitae leo at quam sollicitudin congue. Fusce id massa eget justo tincidunt rhoncus. Fusce lacinia turpis at neque laoreet posuere. Maecenas sit amet nisl auctor, volutpat ligula sed, mollis felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque interdum imperdiet neque, sit amet commodo dolor vulputate in.
 		</div>
